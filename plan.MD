@@ -1,4 +1,4 @@
-# Materials for Week 1 Section
+# Materials for Week 3 Section
 
 - [Drawing Panel Guide and Section Problem](/DrawingPanel.MD)
 - [Parameter Concept](/Parameter.MD)
